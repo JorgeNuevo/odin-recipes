@@ -9,4 +9,4 @@ Create working link to recipes and back home
 Ran into error message linking from the main page to guacamole page and
 vice-versa due to adding "recipes/" in front of guacamole.html link in
 index page and adding "../" in front of index.html link on 
-guacamole.tml page. This could be a limitation to WSL
+guacamole.html page. This could be a limitation to WSL
