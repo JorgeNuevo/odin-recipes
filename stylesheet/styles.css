@@ -1,0 +1,20 @@
+/* styles.css */
+
+h1,
+.my-title {
+    outline: 2px solid blue;
+    text-align: center;
+    color: green;
+}
+
+p {
+    text-decoration: none;
+    color: white;
+    display: block;
+    padding: 10px 20px;
+    background-color: orange;
+}
+
+#different {
+    background-color: red;
+}
