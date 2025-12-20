@@ -1,20 +1,46 @@
 /* styles.css */
 
-h1,
-.my-title {
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #FFF8E7;
+}
+
+a {
+    display: block;
+    padding: 70px 20px;
+    margin: 25px 200px;
+    text-decoration: none;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    background-color: #008080;
+    outline: 2px #FAD6A5;
+    color: white;
+    font-size: 18px;
+    font-family: sans-serif;
+    box-shadow: 0 0 4px 0 #FAD6A5;
+    transition: background-color 0.3s ease;
+}
+
+a:hover {
+    background-color: #F3A949;
+    color: #008080;
+    transition: background-color 0.3s ease;
+}
+
+h1 {
+    padding: 25px 25px;
+    margin: 50px 50px 50px 50px
     outline: 2px solid blue;
     text-align: center;
-    color: green;
+    color: #F3A949;
 }
 
-p {
-    text-decoration: none;
+.button:hover {
+    background-color: #04AA6D;
     color: white;
-    display: block;
-    padding: 10px 20px;
-    background-color: orange;
-}
-
-#different {
-    background-color: red;
 }
