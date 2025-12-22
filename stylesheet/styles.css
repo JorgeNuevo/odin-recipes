@@ -12,7 +12,7 @@ body {
 a {
     display: block;
     padding: 70px 20px;
-    margin: 25px 200px;
+    margin: 25px 300px;
     text-decoration: none;
     text-align: center;
     border: none;
@@ -34,10 +34,10 @@ a:hover {
 
 h1 {
     padding: 25px 25px;
-    margin: 50px 50px 50px 50px
-    outline: 2px solid blue;
+    margin: 50px 50px 50px 50px;
     text-align: center;
     color: #F3A949;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
 
 .button:hover {
