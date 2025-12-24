@@ -39,8 +39,3 @@ h1 {
     color: #F3A949;
     text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
 }
-
-.button:hover {
-    background-color: #04AA6D;
-    color: white;
-}

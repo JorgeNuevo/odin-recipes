@@ -1,4 +1,4 @@
-/* styles 02 */
+/* Styles 03 */
 
 * {
     box-sizing: border-box;
@@ -6,8 +6,8 @@
 
 h1 {
     text-align: center;
-    color: #84eab3;
-    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    color: #F4C430;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5)
 }
 
 body {
@@ -18,13 +18,13 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    box-shadow: 3px 3px 3px #aaaaaa;
+    box-shadow: 3px 3px 3px #aaaaaa; 
 }
 
 div {
     font-family: sans-serif;
-    box-shadow: 0 0 2px 0; 
-    background-color: #84eab3;
+    box-shadow: 0 0 2px 0;
+    background-color: #FEDC56;
     border-radius: 10px;
     padding: 1px;
     padding-left: 10px;
@@ -47,7 +47,7 @@ div {
 
 #home-button:hover {
     background-color: #F3A949;
-    color: #001010;
+    color: black;
     transition: background-color 0.3s ease;
 }
 
@@ -57,5 +57,4 @@ ol {
     padding-right: 10px;
     text-align: left;
 }
-
 
